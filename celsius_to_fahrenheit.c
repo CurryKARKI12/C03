@@ -12,6 +12,6 @@ int main() {
     // Conversion
     fahrenheit = (celsius * 9 / 5) + 32;
 
-    printf("%.1f°C équivaut à %.1f°F\n", celsius, fahrenheit);
+    printf("%.1f°C équivaut à %.1f°F\n", celsius, fahrenheit); // 1f signifit que le résultat sera un nombre flottant ou a virgule avec 1 chiffre apres la virgule, F lui permet de remplacer C par F  
     return 0;
 }
