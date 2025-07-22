@@ -30,4 +30,4 @@ int main() {
     printf("\n");
     return 0;
 }
- // Attention ici la valeur doit etre limiter a 6 valeurs 
+ 
